@@ -1,2 +1,2 @@
-# spindle.app
-www.spindle.app
+# [spindle.app](www.spindle.app)
+🌀 www.spindle.app
